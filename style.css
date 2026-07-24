@@ -16,6 +16,7 @@ h1 {
 
 /* Subheadings */
 h2 {
+   text-align: center;
    color:#00aaff;
    font-size: 32 px;
    margin-top: 50px; 
