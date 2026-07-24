@@ -7,6 +7,24 @@ body {
     padding: 40px;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1b1b1b;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+nav a:hover {
+    color: #00aaff;
+}
+
 /* Main heading */
 h1 {
     color: #00aaff;
