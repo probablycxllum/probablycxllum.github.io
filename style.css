@@ -26,14 +26,14 @@ nav a:hover {
 }
 
 /* Main heading */
-h1 {
+.hero-title {
     color: #00aaff;
     text-align: center;
     margin-top: 50px;
 }
 
 /* Subheadings */
-h2 {
+.sub-heading {
    text-align: center;
    color:#00aaff;
    font-size: 32px;
