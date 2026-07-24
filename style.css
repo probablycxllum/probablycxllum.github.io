@@ -4,6 +4,7 @@ body {
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
+    padding: 40px;
 }
 
 /* Main heading */
@@ -17,4 +18,7 @@ h1 {
 p {
     text-align: center;
     font-size: 18px;
+    max-width: 700px;
+    margin: 20px auto;
+    line-height: 1.6;
 }
