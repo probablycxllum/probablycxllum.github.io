@@ -1,11 +1,20 @@
-<head>
-
-<link rel="stylesheet" href="style.css">
-
-body
-{
-background-color:#111;
-  color:white;
+/* Whole page */
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
 }
 
-</head>
+/* Main heading */
+h1 {
+    color: #00aaff;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Paragraphs */
+p {
+    text-align: center;
+    font-size: 18px;
+}
